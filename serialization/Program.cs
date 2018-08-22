@@ -50,7 +50,7 @@ namespace ConsoleApp3
             //    str = rd.ReadToEnd().Split(str, StringSplitOptions.RemoveEmptyEntries);
             //}
 
-
+            Console.WriteLine("остальное по ссылке https://github.com/DaenyK/Serialize-part-2");
 
         }
     }
